@@ -1,0 +1,11 @@
+starter\pages\superAdminSecond.class
+starter\stepdefinitions\superAdminProfileSteps.class
+starter\pages\superAdminLogin.class
+starter\stepdefinitions\superAdminLogoutSteps.class
+starter\pages\superAdminFirst.class
+starter\pages\superAdminProfile.class
+starter\stepdefinitions\superAdminLoginSteps.class
+starter\CucumberTestSuite.class
+starter\pages\superAdminLogout.class
+starter\stepdefinitions\superAdminFirstSteps.class
+starter\stepdefinitions\superAdminSecondSteps.class
